@@ -1,13 +1,13 @@
 export default [
   {
-    url: "https://github.com/svelte-society/recipes-mvp",
+    url: "https://sveltesociety.dev/recipes",
     name: "Svelte Society recipes",
     notes:
       "Lots of great stuff in here, and it's very actively updated! More focused on giving tips and guidance for specific use cases.",
   },
   {
-    url: "https://svelte-community.netlify.app/resources/",
+    url: "https://sveltesociety.dev",
     name: "Svelte Community resources",
-    notes: "I would especially recommend Rich Harris's talks!",
+    notes: "I would especially recommend Rich Harris's talks if I could find them on here!",
   },
 ]
